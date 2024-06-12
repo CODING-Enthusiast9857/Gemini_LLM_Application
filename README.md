@@ -5,6 +5,10 @@
 
 Gemini LLM Application is an open-source project that leverages state-of-the-art language models for text generation and image description. This project utilizes the Gemini API key to enable powerful natural language processing capabilities. Whether you're interested in creative text generation or generating descriptive captions for images, Gemini has you covered.
 
+To see training of different neural network architectures click below
+
+Automatic Text Generation: https://github.com/CODING-Enthusiast9857/Automatic_Text_Generation
+
 ## Features
 
 - **Text Generation:** Generate human-like text for various applications, including creative writing, code completion, and more.
