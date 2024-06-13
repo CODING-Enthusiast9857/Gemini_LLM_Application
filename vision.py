@@ -8,7 +8,7 @@ from PIL import Image
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-model = genai.GenerativeModel("gemini-pro-vision")
+model = genai.GenerativeModel("gemini-1.5-flash")
 def get_gemini_response(input, image):
     if input!="":
         response = model.generate_content([input, image])
