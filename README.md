@@ -40,13 +40,13 @@ Automatic Text Generation: https://github.com/CODING-Enthusiast9857/Automatic_Te
 1. Run the text generation script:
 
     ```bash
-    python app.py
+    streamlit run app.py
     ```
 
 2. Run the image description script:
 
     ```bash
-    python vision.py 
+    streamlit run vision.py 
     ```
 
 ## Contributing
